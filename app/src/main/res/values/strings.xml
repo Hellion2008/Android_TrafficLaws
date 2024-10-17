@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android_TrafficLaws</string>
+    <string name="title_text_view">Информация</string>
 </resources>
